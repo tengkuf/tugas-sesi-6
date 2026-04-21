@@ -1,0 +1,7 @@
+while True :
+    angka = int(input("Masukkan angka positif: "))
+    if angka > 0:
+        break
+    else:
+        print("input salah, masukkan angka positif!")
+      print("Angka positif yang di masukkan: ")
